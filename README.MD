@@ -9,7 +9,7 @@ Consultation d’une liste de comptes : Retourner une liste contenant les soldes
 
 Pour déployer le Web Service SOAP avec JAX-WS, les dépendances suivantes sont ajoutées dans le fichier pom.xml
 
-<img src="captures/capture_2.png">
+<img src="Captures/Capture_2.png">
 
 Nous allons déployer le Web Service SOAP en utilisant un simple serveur JAX-WS :
 
@@ -19,14 +19,14 @@ Nous allons déployer le Web Service SOAP en utilisant un simple serveur JAX-WS 
 
 3.Accéder au fichier WSDL généré automatiquement pour permettre l'interaction avec le service via des clients SOAP.
 
-<img src="captures/capture_3.png">
+<img src="Captures/Capture_3.png">
 
 Le navigateur affichera le fichier WSDL en format XML, décrivant les opérations, les types de données et l'emplacement du service.
 
-<img src="captures/capture_4.png">
+<img src="Captures/Capture_4.png">
 
 Nous allons tester les opérations d’un Web Service SOAP avec SoapUI(Convert,getCompte,ListComptes)
 
-<img src="captures/capture_5.png">
-<img src="captures/capture_6.png">
-<img src="captures/capture_7.png">
+<img src="Captures/Capture_5.png">
+<img src="Captures/Capture_6.png">
+<img src="Captures/Capture_7.png">
