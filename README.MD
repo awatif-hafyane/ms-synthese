@@ -5,7 +5,7 @@
 Conversion de devise : Convertir un montant de l'euro en dirhams marocains (DH).
 Consultation d’un compte : Récupérer les informations d’un compte spécifique.
 Consultation d’une liste de comptes : Retourner une liste contenant les soldes de plusieurs comptes.
-<img src="captures/capture_1.png">
+<img src="Captures/Capture_1.png">
 
 Pour déployer le Web Service SOAP avec JAX-WS, les dépendances suivantes sont ajoutées dans le fichier pom.xml
 
